@@ -4,7 +4,7 @@
 
 > AI-powered multilingual service marketplace for Pakistan’s informal economy.
 
-KaamKar AI connects users with local service providers through a conversational AI experience supporting **Urdu**, **Roman Urdu**, and **English**.
+Rozgar AI connects users with local service providers through a conversational AI experience supporting **Urdu**, **Roman Urdu**, and **English**.
 
 The platform uses a multi-agent orchestration system to understand requests, resolve locations, discover providers, rank results, generate bookings, and simulate notifications — all with transparent reasoning traces.
 
@@ -33,7 +33,7 @@ Frontend (Next.js + TailwindCSS)
 Backend API (FastAPI)
         │
         ▼
-KaamKarOrchestrator (Antigravity Pattern)
+RozgarOrchestrator (Antigravity Pattern)
 
 IntentAgent
    ↓
@@ -54,7 +54,7 @@ FollowUpAgent
 
 # 🧠 Multi-Agent Workflow
 
-KaamKar AI implements a:
+Rozgar AI implements a:
 
 ```text
 Plan → Reason → Decide → Act → Follow-up
