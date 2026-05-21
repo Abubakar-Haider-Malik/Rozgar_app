@@ -127,9 +127,7 @@ Currently supports selected areas of:
 
 ### Rawalpindi
 
-* Bahria Town
-* DHA
-* Saddar
+* near eme area
 
 ---
 
